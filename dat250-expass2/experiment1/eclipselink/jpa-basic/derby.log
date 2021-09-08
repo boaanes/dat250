@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Sep 08 18:57:22 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-c657-b4f3-00000e6d7550 
+on database directory /home/bo/docs/skole/dat250/db/testdb with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/home/bo/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+7
+user.dir=/home/bo/docs/skole/dat250/dat250-jpa-example/eclipselink/jpa-basic
+os.name=Linux
+os.arch=amd64
+os.version=5.13.13-arch1-1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
