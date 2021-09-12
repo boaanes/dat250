@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="393cf69d-9e8e-47c2-b5cf-d9f2ec6419cb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../../dat250-expass1.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../db-relationship.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/basicexample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/basicexample/Todo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/eclipselink/model/Family.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/eclipselink/model/Job.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/java/no/hvl/dat250/jpa/eclipselink/model/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/resources/META-INF/persistance.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/main/resources/META-INF/persistence1.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../experiment1/eclipselink/jpa-basic/src/test/java/JpaTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jpa-buddy.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/derby.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/Address.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/Bank.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/CreditCard.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/Person.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/no/hvl/dat250/jpa/basicexample/Pin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/persistence.xml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1y3SanC3pQ6SoiD3WfQ1HgTKbK4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../expass2/experiment2/eclipselink/jpa-basic" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="no.hvl.dat250.jpa.basicexample.Main" />
+      <module name="jpa-basic" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="no.hvl.dat250.jpa.basicexample.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="393cf69d-9e8e-47c2-b5cf-d9f2ec6419cb" name="Default Changelist" comment="" />
+      <created>1631478845398</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631478845398</updated>
+      <workItem from="1631478847322" duration="1786000" />
+      <workItem from="1631480761331" duration="87000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
