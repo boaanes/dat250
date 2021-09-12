@@ -12,7 +12,8 @@ public class Address {
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
     private String street;
+    private int number;
 
-    @OneToMany(mappedBy = "address")
+    @ManyToMany(mappedBy = "address")
     private ArrayList<Person> owner = new ArrayList<>();
 }

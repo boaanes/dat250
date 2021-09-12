@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Sep 12 22:50:33 CEST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-017b-dbc6-a339-00000f30e000 
+on database directory /home/bo/databases/exper2 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@2c13da15 
+Loaded from file:/home/bo/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.12+7
+user.dir=/home/bo/docs/skole/dat250/github-repo/dat250-expass2/experiment2/eclipselink/jpa-basic
+os.name=Linux
+os.arch=amd64
+os.version=5.13.13-arch1-1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

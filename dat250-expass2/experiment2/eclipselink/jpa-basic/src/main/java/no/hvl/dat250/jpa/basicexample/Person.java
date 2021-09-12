@@ -4,6 +4,7 @@ import lombok.Data;
 
 import javax.persistence.*;
 import java.util.ArrayList;
+import java.util.List;
 
 @Entity
 @Data
@@ -13,7 +14,9 @@ public class Person {
     private Long id;
     private String name;
 
-    private final ArrayList<Address> address = new ArrayList<>();
+    @OneToMany(mappedBy = "person")
+    private final List<CreditCard> cards = new ArrayList<>();
 
-    private ArrayList<CreditCard> cards;
+    @ManyToMany(mappedBy = "address")
+    private final List<Address> addresses = new ArrayList<>();
 }

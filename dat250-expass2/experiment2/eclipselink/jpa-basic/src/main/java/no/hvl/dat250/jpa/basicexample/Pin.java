@@ -7,11 +7,13 @@ import java.util.ArrayList;
 
 @Entity
 @Data
-public class Person {
+public class Pin {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
-    private int pinCode;
+    private String pinCode;
     private int count;
+
+    @OneToOne
+    private CreditCard card;
 }

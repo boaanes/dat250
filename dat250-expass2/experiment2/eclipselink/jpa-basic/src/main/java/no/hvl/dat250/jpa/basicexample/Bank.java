@@ -13,5 +13,6 @@ public class Bank {
     private Long id;
     private String name;
 
-    private ArrayList<CreditCard> ownsCard = new ArrayList<>();
+    @OneToMany(mappedBy = "bank")
+    private ArrayList<CreditCard> cards = new ArrayList<>();
 }

@@ -10,12 +10,13 @@ public class CreditCard {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-
     private int number;
-    private int balance;
     private int limit;
+    private int balance;
 
-    private Person person;
-
+    @ManyToOne
     private Bank bank;
+
+    @OneToOne(mappedBy = "card")
+    private final Pin pin = new Pin();
 }
