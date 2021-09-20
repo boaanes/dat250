@@ -21,6 +21,7 @@ The installation process was quite straight forward. I use arch linux, so i just
 
 ## Experiment 2
 For the custom `mapReduce`-function I decided to implement a function that works on the same dataset as the example. The function find the total number of items in each users cart.
+
 ![mapReduce](experiment2/mapreduce.png)
 
 ## Pending issues
