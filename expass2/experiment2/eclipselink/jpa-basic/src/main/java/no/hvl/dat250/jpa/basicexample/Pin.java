@@ -11,9 +11,9 @@ public class Pin {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private Long id;
-    private String pinCode;
+    private int pinCode;
     private int count;
 
-    @OneToOne
-    private CreditCard card;
+    @OneToOne(mappedBy = "pin")
+    private final CreditCard card = new CreditCard();
 }

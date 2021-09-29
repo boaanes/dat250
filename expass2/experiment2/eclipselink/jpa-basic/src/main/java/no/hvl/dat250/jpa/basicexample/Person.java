@@ -17,6 +17,6 @@ public class Person {
     @OneToMany(mappedBy = "person")
     private final List<CreditCard> cards = new ArrayList<>();
 
-    @ManyToMany(mappedBy = "address")
+    @ManyToMany(mappedBy = "owners")
     private final List<Address> addresses = new ArrayList<>();
 }

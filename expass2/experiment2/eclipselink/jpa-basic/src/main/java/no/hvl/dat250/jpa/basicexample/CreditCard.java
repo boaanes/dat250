@@ -17,6 +17,9 @@ public class CreditCard {
     @ManyToOne
     private Bank bank;
 
-    @OneToOne(mappedBy = "card")
-    private final Pin pin = new Pin();
+    @ManyToOne
+    private Person person;
+
+    @OneToOne
+    private Pin pin;
 }

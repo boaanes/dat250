@@ -14,6 +14,6 @@ public class Address {
     private String street;
     private int number;
 
-    @ManyToMany(mappedBy = "address")
-    private ArrayList<Person> owner = new ArrayList<>();
+    @ManyToMany
+    private ArrayList<Person> owners = new ArrayList<>();
 }
